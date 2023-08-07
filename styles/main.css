@@ -1,0 +1,19 @@
+.committte__Name {
+    /* display: flex; */
+    border: 5px solid red;
+    text-align: center;
+}
+.candidateCommittees h2 {
+text-align: center;
+border: 10px solid black;
+}
+.pageHeader {
+    text-align: center;
+}
+body {
+    text-align: center;
+
+}
+.Rep__picture {
+    width: 200px;
+}
